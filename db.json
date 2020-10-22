@@ -1,0 +1,18 @@
+{
+  "accounts": [
+    {
+      "name": "Prab",
+      "email": "prab@mit.edu",
+      "balance": 1000,
+      "password": "test",
+      "transactions": []
+    },
+    {
+      "name": "spy",
+      "email": "spy@hiding.com",
+      "balance": 100000,
+      "password": "test2",
+      "transactions": []
+    }
+  ]
+}
